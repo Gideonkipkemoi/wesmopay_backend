@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "tonymugi074@gmail.com",
+      "password": "Wewent50@",
+      "type": "normal"
+    },
+    {
+      "email": "jonathan.mwaniki@thejitu.com",
+      "password": "password30",
+      "type": "paxful"
+    },
+    {
+      "email": "mugimwas@gmail.com",
+      "type": "noones",
+      "password": "theeedk@#"
+    },
+    {
+      "email": "gidi@gmail.com",
+      "password": "testpassword",
+      "type": "paxful"
+    },
+    {
+      "email": "gideon.sang@platinumcredit.co.ke",
+      "type": "noones",
+      "password": "pkemoi"
+    },
+    {
+      "email": "0727611585",
+      "password": "Giddie3255",
+      "type": "paxful"
+    },
+    {
+      "email": "44884844",
+      "password": "gdgdgdgdd",
+      "type": "paxful"
+    },
+    {
+      "email": "test@gmail.com",
+      "type": "noones",
+      "password": "TestPassword"
+    }
+  ]
+}

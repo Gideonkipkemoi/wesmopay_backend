@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "tonym",
+      "password": "Wewent50@",
+      "email": "tonymugi4@gmail.com",
+      "phonenumber": "0700748919",
+      "type": "normal"
+    },
+    {
+      "username": "tony",
+      "password": "Wewent50@",
+      "email": "tonymugi074@gmail.com",
+      "phonenumber": "0700748919",
+      "type": "paxful"
+    },
+    {
+      "username": "mwangitony",
+      "password": "password20@",
+      "email": "mwangitony074@gmail.com",
+      "phonenumber": "0777377678",
+      "type": "noones"
+    }
+  ]
+}
